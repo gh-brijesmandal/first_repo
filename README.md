@@ -1,3 +1,3 @@
-! This is my first GITHUB repository.
+# This is my first GITHUB repository.
 
 Doing practice.
